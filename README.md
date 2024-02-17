@@ -1,4 +1,4 @@
-# Android Developer Technical Challenge: NewsApp Refactoring
+# News App
 
 ## Showcase of multi-modular,testable and scalable Android app built using 
 - Clean Architecture
