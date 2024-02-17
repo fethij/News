@@ -1,0 +1,69 @@
+[versions]
+agp = "8.2.0"
+androidGradlePlugin = "8.2.0"
+kotlin = "1.9.21"
+material = "1.11.0"
+kotlinSerialization = "1.6.0"
+hilt = "2.50"
+hiltExt = "1.1.0"
+androidxHiltNavigationCompose = "1.1.0"
+androidxComposeBom = "2023.10.01"
+androidxLifecycle = "2.6.2"
+androidxComposeCompiler = "1.5.7"
+kotlinxCoroutines = "1.7.3"
+ksp = "1.9.21-1.0.16"
+androidxActivity = "1.8.2"
+androidxAppCompat = "1.6.1"
+androidxCore = "1.12.0"
+androidxCoreSplashscreen = "1.0.1"
+androidxTestRules = "1.5.0"
+androidxTestRunner = "1.5.2"
+junit4 = "4.13.2"
+robolectric = "4.11.1"
+turbine = "1.0.0"
+
+
+[libraries]
+material = { group = "com.google.android.material", name = "material", version.ref = "material" }
+kotlinx-serialization-json = { module = "org.jetbrains.kotlinx:kotlinx-serialization-json", version.ref = "kotlinSerialization" }
+hilt-android = { group = "com.google.dagger", name = "hilt-android", version.ref = "hilt" }
+hilt-android-testing = { group = "com.google.dagger", name = "hilt-android-testing", version.ref = "hilt" }
+hilt-compiler = { group = "com.google.dagger", name = "hilt-android-compiler", version.ref = "hilt" }
+hilt-ext-compiler = { group = "androidx.hilt", name = "hilt-compiler", version.ref = "hiltExt" }
+androidx-hilt-navigation-compose = { group = "androidx.hilt", name = "hilt-navigation-compose", version.ref = "androidxHiltNavigationCompose" }
+android-gradlePlugin = { module = "com.android.tools.build:gradle", version.ref = "androidGradlePlugin" }
+kotlin-gradlePlugin = { module = "org.jetbrains.kotlin:kotlin-gradle-plugin", version.ref = "kotlin" }
+androidx-compose-bom = { module = "androidx.compose:compose-bom", version.ref = "androidxComposeBom" }
+androidx-lifecycle-runtimeCompose = { module = "androidx.lifecycle:lifecycle-runtime-compose", version.ref = "androidxLifecycle" }
+kotlinx-coroutines-android = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-android", version.ref = "kotlinxCoroutines" }
+ksp-gradlePlugin = { group = "com.google.devtools.ksp", name = "com.google.devtools.ksp.gradle.plugin", version.ref = "ksp" }
+androidx-compose-material3 = { group = "androidx.compose.material3", name = "material3" }
+androidx-activity-compose = { group = "androidx.activity", name = "activity-compose", version.ref = "androidxActivity" }
+androidx-appcompat = { group = "androidx.appcompat", name = "appcompat", version.ref = "androidxAppCompat" }
+androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "androidxCore" }
+androidx-core-splashscreen = { group = "androidx.core", name = "core-splashscreen", version.ref = "androidxCoreSplashscreen" }
+androidx-compose-runtime = { group = "androidx.compose.runtime", name = "runtime" }
+androidx-test-runner = { group = "androidx.test", name = "runner", version.ref = "androidxTestRunner" }
+androidx-test-rules = { group = "androidx.test", name = "rules", version.ref = "androidxTestRules" }
+androidx-compose-ui-test = { group = "androidx.compose.ui", name = "ui-test-junit4" }
+junit4 = { group = "junit", name = "junit", version.ref = "junit4" }
+kotlinx-coroutines-test = { group = "org.jetbrains.kotlinx", name = "kotlinx-coroutines-test", version.ref = "kotlinxCoroutines" }
+robolectric = { group = "org.robolectric", name = "robolectric", version.ref = "robolectric" }
+androidx-compose-ui-testManifest = { group = "androidx.compose.ui", name = "ui-test-manifest" }
+turbine = { group = "app.cash.turbine", name = "turbine", version.ref = "turbine" }
+
+[plugins]
+android-Application = { id = "com.android.application", version.ref = "agp" }
+hilt = { id = "com.google.dagger.hilt.android", version.ref = "hilt" }
+kotlin-serialization = { id = "org.jetbrains.kotlin.plugin.serialization", version.ref = "kotlin" }
+kotlin-jvm = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin" }
+ksp = { id = "com.google.devtools.ksp", version.ref = "ksp" }
+
+# Plugins defined by this project
+news-android-application = { id = "news.android.application", version = "unspecified" }
+news-android-application-compose = { id = "news.android.application.compose", version = "unspecified" }
+news-android-feature = { id = "news.android.feature", version = "unspecified" }
+news-android-hilt = { id = "news.android.hilt", version = "unspecified" }
+news-android-library = { id = "news.android.library", version = "unspecified" }
+news-android-library-compose = { id = "news.android.library.compose", version = "unspecified" }
+news-jvm-library = { id = "news.jvm.library", version = "unspecified" }

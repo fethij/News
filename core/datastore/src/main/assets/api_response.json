@@ -1,0 +1,184 @@
+{
+  "articles": [
+    {
+      "type": "Health",
+      "title": "Breaking Developments in Heart Health",
+      "description": "Latest advancements in cardiology and heart care...",
+      "headerImageURL": "https://example.com/images/heart-health.jpg"
+    },
+    {
+      "type": "News",
+      "title": "Renewable Energy Policies Worldwide",
+      "description": "A global perspective on renewable energy initiatives...",
+      "headerImageURL": "https://example.com/images/renewable-energy.jpg"
+    },
+    {
+      "type": "Entertainment",
+      "title": "The New Wave of Online Streaming",
+      "description": "Exploring the impact of streaming services on television and movies...",
+      "headerImageURL": "https://example.com/images/streaming.jpg"
+    },
+    {
+      "type": "Technology",
+      "title": "Cybersecurity in the Modern Age",
+      "description": "Understanding the evolving landscape of cybersecurity threats...",
+      "headerImageURL": "https://example.com/images/cybersecurity.jpg"
+    },
+    {
+      "type": "Opinion",
+      "title": "The Future of Urban Transportation",
+      "description": "Insights into the future of transportation in urban areas...",
+      "headerImageURL": "https://example.com/images/urban-transport.jpg"
+    },
+    {
+      "type": "Health",
+      "title": "Mental Health Awareness in Schools",
+      "description": "The importance of mental health education in school curriculums...",
+      "headerImageURL": "https://example.com/images/mental-health.jpg"
+    },
+    {
+      "type": "News",
+      "title": "Climate Change and Global Actions",
+      "description": "An overview of global efforts to combat climate change...",
+      "headerImageURL": "https://example.com/images/climate-change.jpg"
+    },
+    {
+      "type": "Entertainment",
+      "title": "The Evolution of Video Games",
+      "description": "How video games have changed and grown over the years...",
+      "headerImageURL": "https://example.com/images/video-games.jpg"
+    },
+    {
+      "type": "Technology",
+      "title": "Advancements in Artificial Intelligence",
+      "description": "Exploring the rapid developments in AI technology...",
+      "headerImageURL": "https://example.com/images/ai-advancements.jpg"
+    },
+    {
+      "type": "Opinion",
+      "title": "The Ethics of Gene Editing",
+      "description": "Debating the moral implications of CRISPR and gene editing...",
+      "headerImageURL": "https://example.com/images/gene-editing.jpg"
+    },
+    {
+      "type": "Health",
+      "title": "Innovations in Cancer Treatment",
+      "description": "Emerging treatments and technologies in the fight against cancer...",
+      "headerImageURL": "https://example.com/images/cancer-treatment.jpg"
+    },
+    {
+      "type": "News",
+      "title": "Economic Impact of Global Pandemics",
+      "description": "Analyzing the economic consequences of worldwide health crises...",
+      "headerImageURL": "https://example.com/images/global-pandemic.jpg"
+    },
+    {
+      "type": "Entertainment",
+      "title": "The Rise of Independent Music Artists",
+      "description": "How independent artists are shaping the music industry...",
+      "headerImageURL": "https://example.com/images/independent-music.jpg"
+    },
+    {
+      "type": "Technology",
+      "title": "The Future of Smart Cities",
+      "description": "What smart cities might look like in the near future...",
+      "headerImageURL": "https://example.com/images/smart-cities.jpg"
+    },
+    {
+      "type": "Opinion",
+      "title": "Sustainable Living and Consumer Choices",
+      "description": "Exploring the impact of personal choices on sustainability...",
+      "headerImageURL": "https://example.com/images/sustainable-living.jpg"
+    },
+    {
+      "type": "Health",
+      "title": "Nutritional Myths Debunked",
+      "description": "Separating fact from fiction in dietary advice...",
+      "headerImageURL": "https://example.com/images/nutrition-myths.jpg"
+    },
+    {
+      "type": "News",
+      "title": "Technological Innovations in Agriculture",
+      "description": "How technology is changing the face of modern farming...",
+      "headerImageURL": "https://example.com/images/agriculture-tech.jpg"
+    },
+    {
+      "type": "Entertainment",
+      "title": "The Impact of Social Media on Entertainment",
+      "description": "Analyzing how social media is influencing entertainment trends...",
+      "headerImageURL": "https://example.com/images/social-media.jpg"
+    },
+    {
+      "type": "Technology",
+      "title": "Blockchain Beyond Cryptocurrencies",
+      "description": "Exploring blockchain applications outside of digital currencies...",
+      "headerImageURL": "https://example.com/images/blockchain.jpg"
+    },
+    {
+      "type": "Opinion",
+      "title": "Remote Work: The New Normal?",
+      "description": "Discussing the long-term viability of remote working models...",
+      "headerImageURL": "https://example.com/images/remote-work.jpg"
+    },
+    {
+      "type": "Health",
+      "title": "Telemedicine and Healthcare Access",
+      "description": "How telemedicine is improving access to healthcare...",
+      "headerImageURL": "https://example.com/images/telemedicine.jpg"
+    },
+    {
+      "type": "News",
+      "title": "Space Exploration and Its Future",
+      "description": "A look into the future of human space exploration and travel...",
+      "headerImageURL": "https://example.com/images/space-exploration.jpg"
+    },
+    {
+      "type": "Entertainment",
+      "title": "Trends in Global Cinema",
+      "description": "Exploring current trends in film industries around the world...",
+      "headerImageURL": "https://example.com/images/global-cinema.jpg"
+    },
+    {
+      "type": "Technology",
+      "title": "The Role of Drones in Modern Society",
+      "description": "Examining how drones are being used in various fields...",
+      "headerImageURL": "https://example.com/images/drones.jpg"
+    },
+    {
+      "type": "Opinion",
+      "title": "The Digital Divide and Education",
+      "description": "Addressing the impact of the digital divide on education...",
+      "headerImageURL": "https://example.com/images/digital-divide.jpg"
+    },
+    {
+      "type": "Health",
+      "title": "Emerging Fitness Technologies",
+      "description": "The latest technological advancements in fitness and exercise...",
+      "headerImageURL": "https://example.com/images/fitness-tech.jpg"
+    },
+    {
+      "type": "News",
+      "title": "Advances in Renewable Energy Tech",
+      "description": "Recent technological breakthroughs in renewable energy...",
+      "headerImageURL": "https://example.com/images/renewable-tech.jpg"
+    },
+    {
+      "type": "Entertainment",
+      "title": "The Future of Book Publishing",
+      "description": "How digital platforms are transforming book publishing...",
+      "headerImageURL": "https://example.com/images/book-publishing.jpg"
+    },
+    {
+      "type": "Technology",
+      "title": "Virtual Reality: The Next Frontier",
+      "description": "Exploring the potential and challenges of virtual reality...",
+      "headerImageURL": "https://example.com/images/virtual-reality.jpg"
+    },
+    {
+      "type": "Opinion",
+      "title": "Climate Change: A Call to Action",
+      "description": "Urging immediate and decisive action against climate change...",
+      "headerImageURL": "https://example.com/images/climate-action.jpg"
+    }
+  ]
+}

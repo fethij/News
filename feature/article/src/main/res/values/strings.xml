@@ -1,0 +1,7 @@
+<resources>
+    <string name="article_screen">ArticleScreen</string>
+    <string name="article_loading">ArticleLoading</string>
+    <string name="article_list">ArticleList</string>
+    <string name="no_news">No news for now!</string>
+    <string name="news_item">NewsItem</string>
+</resources>
